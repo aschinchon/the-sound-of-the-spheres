@@ -22,7 +22,7 @@ install.packages("bigsnpr")
 
 ## More info
 
-+ A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2023/01/16/the-music-of-the-spheres/)
++ A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2023/01/20/the-music-of-the-spheres/)
 
 ## Inspiration
 
